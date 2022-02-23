@@ -1,0 +1,14 @@
+.header{
+    display: inline;
+}
+.header h2,a{
+    display: inline;
+}
+.header a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: 700;
+}
+a :hover{
+    color: blue ;
+}
