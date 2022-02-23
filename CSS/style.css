@@ -1,14 +1,23 @@
 .header{
     display: inline;
 }
-.header h2,a{
+.header h2,.hlinks{
     display: inline;
 }
-.header a{
-    text-decoration: none;
-    margin-left: 30px;
-    font-weight: 700;
+.header span{
+    color: blueviolet;
 }
-a :hover{
+
+.hlinks{
+    float: right;
+    margin-right: 400px;
+}
+.hlinks a{
+    text-decoration: none;
+    margin-right:50px;
+    font-weight: 700;
+    font-size: 17px;
+}
+a:hover{
     color: blue ;
 }
