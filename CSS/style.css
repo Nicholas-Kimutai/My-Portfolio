@@ -24,3 +24,25 @@
 a:hover{
     color: blue ;
 }
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    padding:50px;
+    justify-content:center;
+
+}
+.nav h2{
+    color: blueviolet;
+}
+.nav1{
+     margin-left: -100px;
+}
+.nav1 p{
+    font-size:30px;
+    font-weight: 700;
+}
+.nav2{
+    float: right;
+}
