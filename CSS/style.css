@@ -1,6 +1,9 @@
 .header{
     display: inline;
 }
+.header h2{
+    font-size: 30px;
+}
 .header h2,.hlinks{
     display: inline;
 }
