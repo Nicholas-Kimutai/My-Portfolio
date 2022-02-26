@@ -50,12 +50,12 @@ a:hover{
 .aboutme{
     background-color: gray;
 }
-.aboutme h2{
+.aboutme1 h2{
     font-size: 30px;
     font-weight: 700;
     text-align: center;
 }
-.aboutme p{
+.aboutme1 p{
     text-align: center;
     font-weight: 700;
     font-size: 20px;
