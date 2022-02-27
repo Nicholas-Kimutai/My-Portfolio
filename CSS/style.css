@@ -65,19 +65,26 @@ a:hover{
 .about{
     display: flex;
     flex-direction:row;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 30px;
 
+}
+#abt1{
+    padding-top: 100px;
 }
 #abt1 h3{
     font-size: 80px;
     padding-top: 60px;
-
-
+}
+#abt1 p{
+    font-size: 19px;
+    font-style: italic;
 }
 .aboutme2 h2{
     font-size: 22px;
     color: blueviolet;
+    text-decoration:underline;
 
 }
 .aboutme2 h3,h4{
