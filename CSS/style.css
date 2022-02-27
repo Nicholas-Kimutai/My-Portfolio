@@ -121,3 +121,15 @@ a:hover{
 .skillitem p{
     font-weight: normal;
 }
+.projects{
+    background-color: azure;
+    padding: 50px;
+}
+.projects h2{
+    text-align: center;
+    font-weight: 700;
+
+}
+.projects p{
+    font-weight: 700;
+}
