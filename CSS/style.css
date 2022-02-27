@@ -97,6 +97,7 @@ a:hover{
 }
 .skills h2{
     text-align: center; 
+    font-weight: 700;
     
 }
 .skills p{
@@ -111,4 +112,12 @@ a:hover{
     border: solid;
     margin:10px;
     border-radius: 5%;
+}
+.skillitem h4{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.skillitem p{
+    font-weight: normal;
 }
