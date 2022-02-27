@@ -91,3 +91,14 @@ a:hover{
     font-size: 18px;
     
 }
+.skills{
+    background-color: aliceblue;
+}
+.skills h2{
+    text-align: center; 
+    
+}
+.skills p{
+    font-size: 20px;
+    font-weight: 700;
+}
