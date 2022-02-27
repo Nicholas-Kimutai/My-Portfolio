@@ -49,13 +49,15 @@ a:hover{
 
 .aboutme{
     background-color: gray;
+    padding-left: 30px;
+    padding-top: 10px;
 }
-.aboutme1 h2{
+.aboutheader h2{
     font-size: 30px;
     font-weight: 700;
     text-align: center;
 }
-.aboutme1 p{
+.aboutheader p{
     text-align: center;
     font-weight: 700;
     font-size: 20px;
