@@ -37,18 +37,16 @@ a:hover{
     color: blueviolet;
 }
 .nav1{
-     margin-left: -100px;
+     margin:40px;
 }
 .nav1 p{
     font-size:30px;
     font-weight: 700;
 }
-.nav2{
-    float: right;
-}
+
 
 .aboutme{
-    background-color: gray;
+    background-color: rgb(185, 180, 180);
     padding-left: 30px;
     padding-top: 10px;
 }
@@ -121,7 +119,7 @@ a:hover{
 }
 
 .projects{
-    background-color: azure;
+    background-color: gray;
     padding: 50px;
 }
 .projects h2{
@@ -131,6 +129,8 @@ a:hover{
 }
 .projects p{
     font-weight: 700;
+    margin-left: 30px;
+    font-size: 20px;
 }
 .projects1{
     display: flex;
