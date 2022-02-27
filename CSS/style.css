@@ -92,7 +92,8 @@ a:hover{
     
 }
 .skills{
-    background-color: aliceblue;
+    background-color:lightgray;
+    padding: 50px;
 }
 .skills h2{
     text-align: center; 
@@ -101,4 +102,13 @@ a:hover{
 .skills p{
     font-size: 20px;
     font-weight: 700;
+}
+.skills1{
+     display: flex;
+     flex-direction: row;
+}
+.skillitem{
+    border: solid;
+    margin:10px;
+    border-radius: 5%;
 }
